@@ -44,8 +44,7 @@ Akshita Shahi
 Bhanu Panwar
 Harsh Sharma
 🔗 Repository
-
-Add your GitHub repo link here
+ GitHub repo link: (https://github.com/alishanaaj/E-Commerce-Price-Comparison-System)
 
 📌 Future Scope
 Add filters (price range, brand)
